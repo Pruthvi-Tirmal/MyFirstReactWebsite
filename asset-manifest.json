@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/MyFirstReactWebsite/static/css/main.f8b37d64.chunk.css",
+    "main.js": "/MyFirstReactWebsite/static/js/main.f9f40f2f.chunk.js",
+    "main.js.map": "/MyFirstReactWebsite/static/js/main.f9f40f2f.chunk.js.map",
+    "runtime-main.js": "/MyFirstReactWebsite/static/js/runtime-main.f973d925.js",
+    "runtime-main.js.map": "/MyFirstReactWebsite/static/js/runtime-main.f973d925.js.map",
+    "static/css/2.d45d6843.chunk.css": "/MyFirstReactWebsite/static/css/2.d45d6843.chunk.css",
+    "static/js/2.edb7cb42.chunk.js": "/MyFirstReactWebsite/static/js/2.edb7cb42.chunk.js",
+    "static/js/2.edb7cb42.chunk.js.map": "/MyFirstReactWebsite/static/js/2.edb7cb42.chunk.js.map",
+    "index.html": "/MyFirstReactWebsite/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/MyFirstReactWebsite/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.f8b37d64.chunk.css.map": "/MyFirstReactWebsite/static/css/main.f8b37d64.chunk.css.map",
+    "static/js/2.edb7cb42.chunk.js.LICENSE.txt": "/MyFirstReactWebsite/static/js/2.edb7cb42.chunk.js.LICENSE.txt",
+    "static/media/About.8274f637.png": "/MyFirstReactWebsite/static/media/About.8274f637.png",
+    "static/media/Home.b0d49db2.svg": "/MyFirstReactWebsite/static/media/Home.b0d49db2.svg",
+    "static/media/pexels-alesia-kozik-6771985.053ef23a.jpg": "/MyFirstReactWebsite/static/media/pexels-alesia-kozik-6771985.053ef23a.jpg",
+    "static/media/pexels-czapp-árpád-7498603.b9108107.jpg": "/MyFirstReactWebsite/static/media/pexels-czapp-árpád-7498603.b9108107.jpg",
+    "static/media/pexels-daniel-eliashevsky-6942435.2e73116e.jpg": "/MyFirstReactWebsite/static/media/pexels-daniel-eliashevsky-6942435.2e73116e.jpg",
+    "static/media/pexels-djordje-petrovic-2102416.c4a5f15f.jpg": "/MyFirstReactWebsite/static/media/pexels-djordje-petrovic-2102416.c4a5f15f.jpg",
+    "static/media/pexels-mikael-blomkvist-6476590.bc65bacc.jpg": "/MyFirstReactWebsite/static/media/pexels-mikael-blomkvist-6476590.bc65bacc.jpg",
+    "static/media/pexels-oladimeji-ajegbile-3314294.dcd75936.jpg": "/MyFirstReactWebsite/static/media/pexels-oladimeji-ajegbile-3314294.dcd75936.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f973d925.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.edb7cb42.chunk.js",
+    "static/css/main.f8b37d64.chunk.css",
+    "static/js/main.f9f40f2f.chunk.js"
+  ]
+}
