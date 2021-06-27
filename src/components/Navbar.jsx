@@ -59,7 +59,6 @@ const Navbar = () => {
                     <li className="nav-item">
                       <NavLink
                         activeClassName="menu_active"
-                        activeClass="menu_active"
                         className="nav-link"
                         to="/contact"
                       >
